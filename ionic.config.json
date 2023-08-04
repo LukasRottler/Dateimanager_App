@@ -1,0 +1,7 @@
+{
+  "name": "dateimanagerNeu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
